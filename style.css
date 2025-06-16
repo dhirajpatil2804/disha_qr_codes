@@ -43,7 +43,7 @@ section.info h2 {
 .btn-group a {
 display: flex;
 align-items: center;
-justify-content: center;
+justify-content: start;
 gap: 20px;
 }
 
